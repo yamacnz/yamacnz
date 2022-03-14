@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-👀 Name: Yamaç Naz
-🖥️ Who?: I'm a Turkish high school student.
-🎮�🏀 Interests: Playing FPS  and multiplayer games.Watching and playing basketball.
+👀 Name: Yamaç Naz<br>
+🖥️ Who?: I'm a Turkish high school student.<br>
+🎮🏀 Interests: Playing FPS  and multiplayer games.Watching and playing basketball.<br>
